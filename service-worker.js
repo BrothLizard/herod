@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/herod/precache-manifest.55c5a7e4ea2125ede872f875dc276176.js"
+  "/herod/precache-manifest.429abb8e72d17f7202681a0c20bff02b.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa976584ccfd823e43f9c16e869b1d06",
+    "revision": "85296169b60fd8b43dd9d832485099ba",
     "url": "/herod/index.html"
   },
   {
-    "revision": "aa29a9509688e53e9260",
-    "url": "/herod/static/css/main.27fd15f6.chunk.css"
+    "revision": "1cd1d09336392e6d4c15",
+    "url": "/herod/static/css/main.633aa2dc.chunk.css"
   },
   {
     "revision": "083ae16f53c3a37f5c7d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/herod/static/js/2.c62ca354.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aa29a9509688e53e9260",
-    "url": "/herod/static/js/main.5582b579.chunk.js"
+    "revision": "1cd1d09336392e6d4c15",
+    "url": "/herod/static/js/main.63f4e89a.chunk.js"
   },
   {
     "revision": "f2d2c7aa02ebbb5eed94",
