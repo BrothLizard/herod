@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/herod/static/css/main.d1b05096.chunk.css",
+    "main.js": "/herod/static/js/main.597e612d.chunk.js",
+    "main.js.map": "/herod/static/js/main.597e612d.chunk.js.map",
+    "runtime-main.js": "/herod/static/js/runtime-main.b6263c37.js",
+    "runtime-main.js.map": "/herod/static/js/runtime-main.b6263c37.js.map",
+    "static/js/2.4fa636d0.chunk.js": "/herod/static/js/2.4fa636d0.chunk.js",
+    "static/js/2.4fa636d0.chunk.js.map": "/herod/static/js/2.4fa636d0.chunk.js.map",
+    "index.html": "/herod/index.html",
+    "precache-manifest.a6b5881751e53f7aa12b3ca2c0dc74ed.js": "/herod/precache-manifest.a6b5881751e53f7aa12b3ca2c0dc74ed.js",
+    "service-worker.js": "/herod/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/herod/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.4fa636d0.chunk.js.LICENSE.txt": "/herod/static/js/2.4fa636d0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/herod/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6263c37.js",
+    "static/js/2.4fa636d0.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.597e612d.chunk.js"
+  ]
+}
