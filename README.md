@@ -1,4 +1,6 @@
-Slaying dragons with style!
+# Herod
+
+*Slaying dragons with style!*
 
 ## Available Scripts
 
