@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/herod/static/css/main.633aa2dc.chunk.css",
-    "main.js": "/herod/static/js/main.63f4e89a.chunk.js",
-    "main.js.map": "/herod/static/js/main.63f4e89a.chunk.js.map",
+    "main.css": "/herod/static/css/main.fd4fb72b.chunk.css",
+    "main.js": "/herod/static/js/main.16db65bf.chunk.js",
+    "main.js.map": "/herod/static/js/main.16db65bf.chunk.js.map",
     "runtime-main.js": "/herod/static/js/runtime-main.b6263c37.js",
     "runtime-main.js.map": "/herod/static/js/runtime-main.b6263c37.js.map",
     "static/js/2.c62ca354.chunk.js": "/herod/static/js/2.c62ca354.chunk.js",
     "static/js/2.c62ca354.chunk.js.map": "/herod/static/js/2.c62ca354.chunk.js.map",
     "index.html": "/herod/index.html",
-    "precache-manifest.429abb8e72d17f7202681a0c20bff02b.js": "/herod/precache-manifest.429abb8e72d17f7202681a0c20bff02b.js",
+    "precache-manifest.16c8ea990c4c4594cbe322941d7ad5f8.js": "/herod/precache-manifest.16c8ea990c4c4594cbe322941d7ad5f8.js",
     "service-worker.js": "/herod/service-worker.js",
-    "static/css/main.633aa2dc.chunk.css.map": "/herod/static/css/main.633aa2dc.chunk.css.map",
+    "static/css/main.fd4fb72b.chunk.css.map": "/herod/static/css/main.fd4fb72b.chunk.css.map",
     "static/js/2.c62ca354.chunk.js.LICENSE.txt": "/herod/static/js/2.c62ca354.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b6263c37.js",
     "static/js/2.c62ca354.chunk.js",
-    "static/css/main.633aa2dc.chunk.css",
-    "static/js/main.63f4e89a.chunk.js"
+    "static/css/main.fd4fb72b.chunk.css",
+    "static/js/main.16db65bf.chunk.js"
   ]
 }
