@@ -12,8 +12,6 @@ type ChampProps = {
  *
  * @param props Les propriétés du champ.
  */
-function Champ(props: ChampProps) {
+export function Champ(props: ChampProps) {
 	return <rect x="0" y="0" width="100" height="120" fill={props.couleur} clipPath="url(#mask)" />;
 }
-
-export default Champ;

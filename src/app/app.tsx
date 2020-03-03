@@ -1,14 +1,14 @@
 import React from 'react';
-import './App.css';
+import './app.css';
 
 import { FormeEcu, Couleur } from './atouts';
-import Ecu from './Ecu';
-import Champ from './Champ';
+import { Ecu } from './ecu';
+import { Champ } from './champ';
 
 /**
  * La composante principale de l'application.
  */
-function App() {
+export function App() {
 	return (
 		<div className="App">
 			<Ecu forme={FormeEcu.EcuAncien}>
@@ -17,5 +17,3 @@ function App() {
 		</div>
 	);
 }
-
-export default App;

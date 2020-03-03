@@ -13,7 +13,7 @@ type EcuProps = {
  *
  * @param props Les propriétés de l'écu.
  */
-function Ecu(props: EcuProps) {
+export function Ecu(props: EcuProps) {
 	const forme = <path id="mask-ecu" d={props.forme} fill="#ffffff" />;
 	const champ = React.Children.only(props.children);
 
@@ -24,5 +24,3 @@ function Ecu(props: EcuProps) {
 		{champ}
 	</svg>
 }
-
-export default Ecu;
