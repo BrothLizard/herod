@@ -9,13 +9,13 @@ import Champ from './Champ';
  * La composante principale de l'application.
  */
 function App() {
-  return (
-    <div className="App">
-      <Ecu forme={FormeEcu.EcuAncien}>
-        <Champ couleur={Couleur.Azur} />
-      </Ecu>
-    </div>
-  );
+	return (
+		<div className="App">
+			<Ecu forme={FormeEcu.EcuAncien}>
+				<Champ couleur={Couleur.Azur} />
+			</Ecu>
+		</div>
+	);
 }
 
 export default App;

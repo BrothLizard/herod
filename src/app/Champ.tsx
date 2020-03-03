@@ -4,7 +4,7 @@ import React from 'react';
  * Déclare les propriétés d'un champ.
  */
 type ChampProps = {
-  couleur: string
+	couleur: string
 };
 
 /**
@@ -13,7 +13,7 @@ type ChampProps = {
  * @param props Les propriétés du champ.
  */
 function Champ(props: ChampProps) {
-  return <rect x="0" y="0" width="100" height="120" fill={props.couleur} clipPath="url(#mask)" />;
+	return <rect x="0" y="0" width="100" height="120" fill={props.couleur} clipPath="url(#mask)" />;
 }
 
 export default Champ;
