@@ -1,4 +1,5 @@
-import React from 'react';
+import React, { useContext } from 'react';
+import { SurfaceContext } from './ecu';
 
 /**
  * Déclare les propriétés d'un champ.
@@ -13,5 +14,9 @@ type ChampProps = {
  * @param props Les propriétés du champ.
  */
 export function Champ(props: ChampProps) {
-	return <rect x="0" y="0" width="100" height="120" fill={props.couleur} clipPath="url(#mask)" />;
+	const ctxData = useContext(SurfaceContext);
+	if (!ctxData) return null;
+
+	const { x, y, width, height, maskId } = ctxData;
+	return <rect x={x} y={y} width={width} height={height} fill={props.couleur} clipPath={`url(#${maskId})`} />;
 }
